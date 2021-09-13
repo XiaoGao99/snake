@@ -1,2 +1,2 @@
 # snake
-A classic snake game.
+A classic snake game that implements java GUI. 
